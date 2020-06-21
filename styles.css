@@ -1,0 +1,43 @@
+
+.navbar{
+	background-color: grey;
+	/*height: 70px;*/
+    padding:0;
+
+}
+.nav-link{
+	background-color:ghostwhite; 
+}
+.d-inline-block
+{
+	font-size: 40px;
+
+	margin-top: 1rem!important;
+}
+span{
+	margin-right: 20px;
+}
+.box
+{
+
+	float:left;
+    padding: 10px;
+
+}
+.boxinner{
+	background-color: grey;
+
+}
+.text-center{
+  font-size:20px;
+}
+.minibox{
+	
+    font-size: 28px;
+    text-align:center;
+
+}
+.about{
+	padding: 10px;
+	font-size:14px;
+}
